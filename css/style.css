@@ -1,0 +1,21 @@
+.input_field_container {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 500px;
+    height: 500px;
+  }
+
+.wrong_messages {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+
+.date_description {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 500px;
+  width: 500px;
+  white-space: pre-line;
+}
